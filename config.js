@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 𝖱𝖠𝖩𝖯𝖮𝖮𝖳 𝖡𝖮𝖳>>>>>𝖢𝖱𝖤𝖠𝖳𝖤𝖣 𝖡𝖸 𝖣𝖠𝖱𝖪 𝖶𝖠𝖲𝖨 💝'
 global.premium = 'true'
 global.packname = '💝 RAJPOOT BOT💝 Created By 💝 DARK---WASI²⁰²³ 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
