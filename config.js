@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = '💝 𝐼𝑇𝑋__𝑊𝐴𝑆𝐼__𝑀𝐷>>>>>𝖢𝖱𝖤𝖠𝖳𝖤𝖣 𝖡𝖸 𝖣𝖠𝖱𝖪 𝖶𝖠𝖲𝖨 💝'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = '💝 𝑊𝐴𝑆𝐼💝 Created By 💝 DARK---WASI²⁰²³ 💝' 
 global.author = '💝 DARK--WASI²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
