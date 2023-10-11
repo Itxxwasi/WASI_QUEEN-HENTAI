@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923151595788', '𝗔𝗥𝗛𝗬𝗔𝗡 𝗥𝗔𝗝𝗣𝗢𝗢𝗧 𝗕𝗢𝗧²⁰²³', true],
+  ['923192179398', 'ＤＡＲＫＷＡＳＩ²⁰²³', true],
   ['923259823531', '𝖢𝖱𝖤𝖠𝖳𝖤𝖣 𝖡𝖸 𝖣𝖠𝖱𝖪 𝖶𝖠𝖲𝖨²⁰²³', true], 
   [''] 
 ] //Number of owners
@@ -47,9 +47,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 𝖱𝖠𝖩𝖯𝖮𝖮𝖳 𝖡𝖮𝖳>>>>>𝖢𝖱𝖤𝖠𝖳𝖤𝖣 𝖡𝖸 𝖣𝖠𝖱𝖪 𝖶𝖠𝖲𝖨 💝'
+global.botname = '💝 𝐼𝑇𝑋__𝑊𝐴𝑆𝐼__𝑀𝐷>>>>>𝖢𝖱𝖤𝖠𝖳𝖤𝖣 𝖡𝖸 𝖣𝖠𝖱𝖪 𝖶𝖠𝖲𝖨 💝'
 global.premium = 'true'
-global.packname = '💝 RAJPOOT BOT💝 Created By 💝 DARK---WASI²⁰²³ 💝' 
+global.packname = '💝 𝑊𝐴𝑆𝐼💝 Created By 💝 DARK---WASI²⁰²³ 💝' 
 global.author = '💝 DARK--WASI²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
@@ -59,7 +59,7 @@ global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 WASI 💝..._*'
+global.wait = '*💝 _𝑊𝐴𝐼𝑇𝐼𝑁𝐺 𝐵𝑅𝑂 𝐹𝐼𝐿𝐸 𝑈𝑃𝐿𝑂𝐷𝐼𝑁𝐺 𝐵𝑌 💝 𝐷𝐴𝑅𝐾_𝑊𝐴𝑆𝐼💝..._*'
 global.rwait = '🇵🇰'
 global.dmoji = '🤣'
 global.done = '👍'
